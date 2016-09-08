@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8FE03E26A55CE52D9CA5C2D3D6EEF94F2FF70252",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8FE03E26A55CE52D9CA5C2D3D6EEF94F2FF70252" : 0,
+    "8CA1C3872408337D9D511CD381ABF3201C637B51" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B19EB3FE-A72F-4F17-8558-0A3892892BD0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8FE03E26A55CE52D9CA5C2D3D6EEF94F2FF70252" : "Networking\/",
+    "8CA1C3872408337D9D511CD381ABF3201C637B51" : "..\/Developer\/Mygirl"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Networking",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Networking.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.coding.net\/onepiece\/Mygirl.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8CA1C3872408337D9D511CD381ABF3201C637B51"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:alfredcc\/Archi.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8FE03E26A55CE52D9CA5C2D3D6EEF94F2FF70252"
+    }
+  ]
+}
